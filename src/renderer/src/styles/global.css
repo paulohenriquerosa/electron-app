@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+
+html {
+  overflow: hidden;
+}
+
+
+
+#header{
+  -webkit-app-region: drag;
+}
